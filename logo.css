@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'rakoon';
+  src: url('rakoon.ttf');
+}
+.big-logo {
+  font-family: 'rakoon', Fallback, sans-serif;
+  font-size: 150px;
+  color: salmon;
+  position: relative;
+  z-index: 1;
+}
+.big-logo a {
+  color: paleturquoise;
+}
+.big-logo a:link {
+  transition: color 0.5s ease;
+  transition: left 1s ease;
+  transition: top 1s ease;
+  text-decoration: none;
+  position: absolute;
+  left: 5px;
+  top: 5px;
+  z-index: 2;
+}
+.big-logo a:hover {
+  transition: color 0.5s ease;
+  transition: left 1s ease;
+  transition: top 1s ease;
+  z-index: 2;
+  left: 10px;
+  top: 8px;
+}
