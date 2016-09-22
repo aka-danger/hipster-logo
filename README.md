@@ -1,5 +1,5 @@
 # hipster-logo
-hipster logo using CSS
+hipster logo that moves when you hover over it using CSS
 
 #usage
 html
