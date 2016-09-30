@@ -1,5 +1,5 @@
-# hipster-logo
-hipster logo that moves when you hover over it using CSS
+# LOGO 
+logo that moves when you hover over it using CSS. 🐳
 
 #usage
 html
@@ -10,5 +10,4 @@ html
 
 #Screenshot
 ![Alt text](/screenshot/screen.jpg?raw=true "screenshot")
-
 
